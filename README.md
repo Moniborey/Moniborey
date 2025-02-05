@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 --> 
 * 😄I've been enjoying learning programming ever since i printed out my first pyramid star pattern
 * 🖥️I've been primarily coding in Javascript and use NextJS for web development for a little bit over a year now.
-* 🌱I’m learning NodeJS/Express at the moment
+* 🌱I’m learning python at the moment
 * ⚡I'm currently on a lookout for a role in frontend web development, ideally writing React or NextJS. If you're hiring, let's chat!
